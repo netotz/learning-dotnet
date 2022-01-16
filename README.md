@@ -1,2 +1,3 @@
-# learning-dotnet
-Personal repo to learn .NET in general
+# Learning .NET
+
+Personal repo to learn all about .NET
